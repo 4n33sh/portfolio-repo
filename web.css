@@ -134,9 +134,9 @@ p.test {
   }
   
   :root {
-    --primary-color: #6CD9CE;
-    --secondary-color: #D93BA1;
-    --complimentary-color: #33ff77;
+    --primary-color: #54de66;
+    --secondary-color: #40c7b9;
+    --complimentary-color: #ffbb33;
   }
   
   .container {
@@ -297,7 +297,7 @@ a{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #copyright{
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(30, 20, 120);
     color: rgb(255, 255, 255);
     padding: 10px;
 }
